@@ -5,7 +5,7 @@ CroStudiraj
 Mobilna aplikacija za pretraživanje studijskih programa u RH po području, gradu i učilištu
 
 Autori:
-Dijana Jaranović (djaranović@unipu.hr)
+Dijana Jaranović (djaranovic@unipu.hr)
 Nino Dasko (ndasko@unipu.hr)
 
 Organizacija	
